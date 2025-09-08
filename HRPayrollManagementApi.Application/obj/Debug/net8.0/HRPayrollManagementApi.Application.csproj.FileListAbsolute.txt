@@ -1,0 +1,15 @@
+C:\Users\himanshu.bansal\source\repos\HRPayrollManagementApi\HRPayrollManagementApi.Application\bin\Debug\net8.0\HRPayrollManagementApi.Application.deps.json
+C:\Users\himanshu.bansal\source\repos\HRPayrollManagementApi\HRPayrollManagementApi.Application\bin\Debug\net8.0\HRPayrollManagementApi.Application.dll
+C:\Users\himanshu.bansal\source\repos\HRPayrollManagementApi\HRPayrollManagementApi.Application\bin\Debug\net8.0\HRPayrollManagementApi.Application.pdb
+C:\Users\himanshu.bansal\source\repos\HRPayrollManagementApi\HRPayrollManagementApi.Application\bin\Debug\net8.0\HRPayrollManagementApi.Domain.dll
+C:\Users\himanshu.bansal\source\repos\HRPayrollManagementApi\HRPayrollManagementApi.Application\bin\Debug\net8.0\HRPayrollManagementApi.Domain.pdb
+C:\Users\himanshu.bansal\source\repos\HRPayrollManagementApi\HRPayrollManagementApi.Application\obj\Debug\net8.0\HRPayrollManagementApi.Application.csproj.AssemblyReference.cache
+C:\Users\himanshu.bansal\source\repos\HRPayrollManagementApi\HRPayrollManagementApi.Application\obj\Debug\net8.0\HRPayrollManagementApi.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\himanshu.bansal\source\repos\HRPayrollManagementApi\HRPayrollManagementApi.Application\obj\Debug\net8.0\HRPayrollManagementApi.Application.AssemblyInfoInputs.cache
+C:\Users\himanshu.bansal\source\repos\HRPayrollManagementApi\HRPayrollManagementApi.Application\obj\Debug\net8.0\HRPayrollManagementApi.Application.AssemblyInfo.cs
+C:\Users\himanshu.bansal\source\repos\HRPayrollManagementApi\HRPayrollManagementApi.Application\obj\Debug\net8.0\HRPayrollManagementApi.Application.csproj.CoreCompileInputs.cache
+C:\Users\himanshu.bansal\source\repos\HRPayrollManagementApi\HRPayrollManagementApi.Application\obj\Debug\net8.0\HRPayrol.7D55505B.Up2Date
+C:\Users\himanshu.bansal\source\repos\HRPayrollManagementApi\HRPayrollManagementApi.Application\obj\Debug\net8.0\HRPayrollManagementApi.Application.dll
+C:\Users\himanshu.bansal\source\repos\HRPayrollManagementApi\HRPayrollManagementApi.Application\obj\Debug\net8.0\refint\HRPayrollManagementApi.Application.dll
+C:\Users\himanshu.bansal\source\repos\HRPayrollManagementApi\HRPayrollManagementApi.Application\obj\Debug\net8.0\HRPayrollManagementApi.Application.pdb
+C:\Users\himanshu.bansal\source\repos\HRPayrollManagementApi\HRPayrollManagementApi.Application\obj\Debug\net8.0\ref\HRPayrollManagementApi.Application.dll

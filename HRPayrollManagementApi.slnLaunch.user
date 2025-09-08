@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "HRPayrollManagementApi\\HRPayrollManagementApi.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "HRPayrollManagementApi.Application\\HRPayrollManagementApi.Application.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "HRPayrollManagement.Infrastructure\\HRPayrollManagementApi.Infrastructure.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

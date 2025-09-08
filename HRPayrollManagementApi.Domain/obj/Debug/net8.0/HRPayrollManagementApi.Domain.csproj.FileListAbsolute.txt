@@ -1,0 +1,11 @@
+C:\Users\himanshu.bansal\source\repos\HRPayrollManagementApi\HRPayrollManagementApi.Domain\bin\Debug\net8.0\HRPayrollManagementApi.Domain.deps.json
+C:\Users\himanshu.bansal\source\repos\HRPayrollManagementApi\HRPayrollManagementApi.Domain\bin\Debug\net8.0\HRPayrollManagementApi.Domain.dll
+C:\Users\himanshu.bansal\source\repos\HRPayrollManagementApi\HRPayrollManagementApi.Domain\bin\Debug\net8.0\HRPayrollManagementApi.Domain.pdb
+C:\Users\himanshu.bansal\source\repos\HRPayrollManagementApi\HRPayrollManagementApi.Domain\obj\Debug\net8.0\HRPayrollManagementApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\himanshu.bansal\source\repos\HRPayrollManagementApi\HRPayrollManagementApi.Domain\obj\Debug\net8.0\HRPayrollManagementApi.Domain.AssemblyInfoInputs.cache
+C:\Users\himanshu.bansal\source\repos\HRPayrollManagementApi\HRPayrollManagementApi.Domain\obj\Debug\net8.0\HRPayrollManagementApi.Domain.AssemblyInfo.cs
+C:\Users\himanshu.bansal\source\repos\HRPayrollManagementApi\HRPayrollManagementApi.Domain\obj\Debug\net8.0\HRPayrollManagementApi.Domain.csproj.CoreCompileInputs.cache
+C:\Users\himanshu.bansal\source\repos\HRPayrollManagementApi\HRPayrollManagementApi.Domain\obj\Debug\net8.0\HRPayrollManagementApi.Domain.dll
+C:\Users\himanshu.bansal\source\repos\HRPayrollManagementApi\HRPayrollManagementApi.Domain\obj\Debug\net8.0\refint\HRPayrollManagementApi.Domain.dll
+C:\Users\himanshu.bansal\source\repos\HRPayrollManagementApi\HRPayrollManagementApi.Domain\obj\Debug\net8.0\HRPayrollManagementApi.Domain.pdb
+C:\Users\himanshu.bansal\source\repos\HRPayrollManagementApi\HRPayrollManagementApi.Domain\obj\Debug\net8.0\ref\HRPayrollManagementApi.Domain.dll

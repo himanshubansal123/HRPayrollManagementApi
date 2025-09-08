@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "HRPayrollManagementApi.Tests/1.0.0": {
+        "runtime": {
+          "HRPayrollManagementApi.Tests.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HRPayrollManagementApi.Tests/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

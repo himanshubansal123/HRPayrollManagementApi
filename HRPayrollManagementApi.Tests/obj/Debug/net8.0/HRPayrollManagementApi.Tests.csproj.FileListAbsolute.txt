@@ -1,0 +1,11 @@
+C:\Users\himanshu.bansal\source\repos\HRPayrollManagementApi\HRPayrollManagementApi.Tests\bin\Debug\net8.0\HRPayrollManagementApi.Tests.deps.json
+C:\Users\himanshu.bansal\source\repos\HRPayrollManagementApi\HRPayrollManagementApi.Tests\bin\Debug\net8.0\HRPayrollManagementApi.Tests.dll
+C:\Users\himanshu.bansal\source\repos\HRPayrollManagementApi\HRPayrollManagementApi.Tests\bin\Debug\net8.0\HRPayrollManagementApi.Tests.pdb
+C:\Users\himanshu.bansal\source\repos\HRPayrollManagementApi\HRPayrollManagementApi.Tests\obj\Debug\net8.0\HRPayrollManagementApi.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\himanshu.bansal\source\repos\HRPayrollManagementApi\HRPayrollManagementApi.Tests\obj\Debug\net8.0\HRPayrollManagementApi.Tests.AssemblyInfoInputs.cache
+C:\Users\himanshu.bansal\source\repos\HRPayrollManagementApi\HRPayrollManagementApi.Tests\obj\Debug\net8.0\HRPayrollManagementApi.Tests.AssemblyInfo.cs
+C:\Users\himanshu.bansal\source\repos\HRPayrollManagementApi\HRPayrollManagementApi.Tests\obj\Debug\net8.0\HRPayrollManagementApi.Tests.csproj.CoreCompileInputs.cache
+C:\Users\himanshu.bansal\source\repos\HRPayrollManagementApi\HRPayrollManagementApi.Tests\obj\Debug\net8.0\HRPayrollManagementApi.Tests.dll
+C:\Users\himanshu.bansal\source\repos\HRPayrollManagementApi\HRPayrollManagementApi.Tests\obj\Debug\net8.0\refint\HRPayrollManagementApi.Tests.dll
+C:\Users\himanshu.bansal\source\repos\HRPayrollManagementApi\HRPayrollManagementApi.Tests\obj\Debug\net8.0\HRPayrollManagementApi.Tests.pdb
+C:\Users\himanshu.bansal\source\repos\HRPayrollManagementApi\HRPayrollManagementApi.Tests\obj\Debug\net8.0\ref\HRPayrollManagementApi.Tests.dll

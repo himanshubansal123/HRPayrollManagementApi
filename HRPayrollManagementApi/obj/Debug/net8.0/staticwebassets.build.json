@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "R0DEDQWxlR63d5/QJB0adbyj9U+H5k1rGwDqDlce8Q4=",
+  "Source": "HRPayrollManagementApi",
+  "BasePath": "_content/HRPayrollManagementApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
